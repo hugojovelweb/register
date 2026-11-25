@@ -1,10 +1,11 @@
 {
   "owner": {
-    "email": "xvannn07@example.com",
-    "username": "Xvannn07"
+    "username": "Xvannn07",
+    "email": "xvannn07@gmail.com"
   },
-  "record": {
-    "CNAME": "silly-arithmetic-ef452c.netlify.app"
-  },
-  "proxy": false
+  "records": {
+    "A": [
+      "216.198.79.1"
+    ]
+  }
 }

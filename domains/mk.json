@@ -1,11 +1,9 @@
 {
-  "description": "mklabs' website",
-  "repo": "https://github.com/mklabs/mklabs.github.com",
   "owner": {
-    "username": "mklabs",
-    "email": "daniel.mickael@gmail.com"
+    "username": "mkexe1",
+    "discord": "728092815397224478"
   },
-  "record": {
-    "CNAME": "mklabs.github.io"
+  "records": {
+    "A": ["216.198.79.1"]
   }
 }

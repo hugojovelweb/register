@@ -1,11 +1,9 @@
 {
-  "description": "Abhishek's personal website",
-  "repo": "https://github.com/nullpointxr",
-  "owner": {
-    "username": "nullpointxr",
-    "email": "abhishek.sankar.in@protonmail.com"
-  },
-  "record": {
-    "CNAME": "abhisheks.me"
-  }
+    "owner": {
+        "username": "deshabhishek007",
+        "email": "abhishek@whoisabhi.com"
+    },
+    "records": {
+        "URL": "https://whoisabhi.com"
+    }
 }

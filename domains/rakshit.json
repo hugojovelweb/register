@@ -1,9 +1,12 @@
 {
   "owner": {
-    "username": "spuckhafte",
-    "email": "rakshit240405@gmail.com"
+    "username": "rkhooda",
+    "email": "rakshit.official703@gmail.com"
   },
-  "record": {
-    "A": ["75.2.60.5"]
+  "records": {
+    "A": [
+      "216.198.79.1",
+      "64.29.17.1"
+    ]
   }
 }

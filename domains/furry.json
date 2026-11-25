@@ -1,10 +1,8 @@
 {
   "owner": {
-    "username": "furyashnyy",
-    "email": "faradey.iskra@mail.ru",
-    "discord": "754721080383373373"
+    "username": "furrybest"
   },
-  "record": {
-    "A": ["31.31.196.104"]
+  "records": {
+    "CNAME": "furrybest.github.io"
   }
 }

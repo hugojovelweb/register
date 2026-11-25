@@ -1,11 +1,9 @@
 {
-  "description": "A personal site for all my cool stuff",
-  "repo": "https://github.com/Jateeeen/Jateeeen.github.io",
   "owner": {
-    "username": "Jateeeen",
-    "email": "jatin@linkxtr.app"
+    "username": "jatinsm2023",
+    "email": "jatinmahawar08@gmail.com"
   },
-  "record": {
-    "CNAME": "jateeeen.github.io"
+  "records": {
+    "CNAME": "portfolio-website-kei0.onrender.com"
   }
 }

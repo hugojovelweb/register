@@ -1,10 +1,12 @@
 {
-  "description": "Domain for my radio",
   "owner": {
     "username": "VlastikYoutubeKo",
-    "email": "plainrock@seznam.cz"
+    "email": "male@cyn.cz"
   },
-  "record": {
-    "A": ["129.151.254.58"]
-  }
+  "records": {
+    "A": [
+      "38.242.156.120"
+    ]
+  },
+  "proxied": false
 }
